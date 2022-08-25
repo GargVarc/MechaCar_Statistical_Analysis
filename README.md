@@ -88,7 +88,7 @@ In this analysis we identify the production problems with Mechacar by performing
   
 #### Type of test:
 
-  A two way ANOVA test will be required to test the means of a singled dependent variable (Fuel efficiency) across two independent variables (fuel type & horse power) within multiple groups.
+  A two way ANOVA test will be required to test the means of a single dependent variable (Fuel efficiency) across two independent variables (fuel type & horse power) within multiple groups.
   
 #### Data Required:
 
